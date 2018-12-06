@@ -3,8 +3,6 @@
 
 Our dataset, coming from Kaggle, is a summary of retail sales happened in the client store during the Black Friday. The dataset contains some basic customer demographic information and their purchase data associated. The customer demographic data include such as gender, city in stay, occupation, marital status and so on.
 
-![GitHub](https://github.com/zhangyingchi/BlackFriday/blob/chi-zhang/image/cat_sales.png)
-
 ![GitHub](https://github.com/zhangyingchi/BlackFriday/blob/chi-zhang/image/user_profile.png)
 
 Our goal of this project is that standing in the shoes of the retail store, we try to help our client store understand their customers’ purchasing behaviors better. Hence, the store can make better decisions on customer management and resources allocations to boost its sales.
