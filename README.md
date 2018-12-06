@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://github.com/zhangyingchi/BlackFriday/blob/chi-zhang/image/logo.png">
+</div>
+
+-----------------
+
+<div align="center">
+  <img src="https://github.com/zhangyingchi/BlackFriday/blob/chi-zhang/image/poster.jpg">
+</div>
+
+
 # BlackFriday
 ## cluster 
 input: amount purchase in total, items purchased in total, other profile
