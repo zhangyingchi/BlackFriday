@@ -5,6 +5,8 @@ Our dataset, coming from Kaggle, is a summary of retail sales happened in the cl
 
 ![GitHub](https://github.com/zhangyingchi/BlackFriday/blob/chi-zhang/image/user_profile.png)
 
+![GitHub](https://github.com/zhangyingchi/BlackFriday/blob/chi-zhang/image/user_profile.png)
+
 Our goal of this project is that standing in the shoes of the retail store, we try to help our client store understand their customers’ purchasing behaviors better. Hence, the store can make better decisions on customer management and resources allocations to boost its sales.
 
 To achieve that, we first performed linear regression analysis by using OLS model to understand what factors affect the purchase amount more greatly than others. After gaining the basic understanding of our customers, we then use clustering and classification algorithms to segment our customers and to identify the most important customers for our client. To further understand consumer purchasing behaviors, we performed market basket analysis to see the correlations between categories of products purchased. We also performed Matrix Factorization analysis to gain understanding of customers’ “opinions” on different products. We will then discuss the analyses we performed in detail below.
